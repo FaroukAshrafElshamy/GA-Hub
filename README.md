@@ -16,3 +16,4 @@ This project aims to ease studying genetic algorithm concepts by creating a resp
 
 ## Subprojecs ( Examples ):
 **[Ahmed Abd Ebaky "Flabby Bird"](https://github.com/ahmed-3baky/flappy-bird---unbeaten-flabby-bird)**
+**[Ahlam Mostafa "Stack Builder"](https://github.com/AhlamMostafa/College/tree/master/GeneticsAlgorithm/GAproject)**
